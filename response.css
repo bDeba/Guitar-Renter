@@ -314,7 +314,7 @@
         
     }
     .head{
-        width: 50%;
+        width: 60%;
         margin:0 auto;
         
     }
@@ -443,6 +443,13 @@ h3{
     border-color: blanchedalmond;
     border-style: solid;
     transition: 0.3s;
+}
+.card ul{
+width: 250px;
+border-radius: 10px;
+border-style: solid;
+padding: 20px;
+border-color: blanchedalmond;
 }
 
 #foot
